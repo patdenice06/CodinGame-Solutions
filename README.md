@@ -1,2 +1,2 @@
 # codingame
-My codes to resolve some CodinGame challenges
+My Java codes to resolve some CodinGame challenges
